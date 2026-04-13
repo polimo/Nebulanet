@@ -1,0 +1,21 @@
+# Build output
+nebulanet
+*.exe
+
+# Node credentials — never commit private keys or certs
+*.key
+*.cert
+
+# Test artifacts
+*.test
+*.out
+
+# Go tool cache
+vendor/
+
+# Editor/OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
