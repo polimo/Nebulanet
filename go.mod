@@ -1,3 +1,3 @@
-module github.com/yourusername/nebulanet
+module github.com/polimo/nebulanet
 
 go 1.22
